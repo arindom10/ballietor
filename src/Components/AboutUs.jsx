@@ -36,7 +36,10 @@ const AboutUs = () => {
               <strong>Phone:</strong> 618-385-2987
             </p>
             <p className="text-lg text-gray-600">
-              <strong>Email:</strong> VictorJCorbin@jourrapide.com
+              <strong>Email:</strong> victorJCorbin@jourrapide.com
+            </p>
+            <p className="text-lg text-gray-600">
+              <strong>Email:</strong> victorjcorbin@ballietor.com
             </p>
             <p className="text-lg text-gray-600">
               <strong>Address:</strong> 1406 Sherwood Circle Quaker Gap, NC

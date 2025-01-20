@@ -36,7 +36,8 @@ const Footer = () => {
             <div className="text-red-500 mb-2">
               <i className="fas fa-envelope text-2xl"></i>
             </div>
-            <p>VictorJCorbin@jourrapide.com</p>
+            <p>victorJCorbin@jourrapide.com</p>
+            <p>victorjcorbin@ballietor.com</p>
           </div>
         </div>
 
